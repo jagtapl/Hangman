@@ -1,0 +1,25 @@
+
+
+Hangman
+
+Current scope
+
+    no need to change view to table view
+    read all 1k or more words from a file
+    select a random word from the list
+    update the used word list with selected random word
+    scramble a random word to get rid of random no. of charcters
+    make a decision to hide charactors based on the length of a random word
+    next prompt a question for user to only enter a ONE character
+    
+
+
+Future revisions
+
+    launch keyboard for user to input
+    hint button to show a image to guess a word
+    allow 2 or more players to participate
+    q : how 2 players from own device see same contents and how those contents are kept in sync
+
+
+
